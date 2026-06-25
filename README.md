@@ -49,4 +49,4 @@ sql/
 
 ## Observações de segurança
 
-Este script foi extraído de um caso de uso real em ambiente corporativo, mas todos os nomes de procedures, tabelas, colunas e dados (IDs de atendimento, usuários, schemas, etc.) foram substituídos por placeholders genéricos. Ao usar este toolkit, substitua os placeholders pelos identificadores do seu próprio ambiente — nenhum dado ou nome específico de empresa está incluído aqui.
+Este script foi extraído de um caso de uso de ambiente real, mas todos os nomes de procedures, tabelas, colunas e dados foram substituídos por placeholders genéricos. Ao usar este toolkit, substitua os placeholders pelos identificadores do seu próprio ambiente — nenhum dado ou nome específico de empresa está incluído aqui.
